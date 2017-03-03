@@ -1,2 +1,3 @@
 # trail-repository-II-
 test, to figure out how to do this...
+I meant to type "trial repository," but I wrote trail instead. Great start!
